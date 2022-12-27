@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApptFinder", "ApptFinder\ApptFinder.csproj", "{8C9D1600-1CEE-4A39-9AE3-ADC23B8DD9A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApptFinder_Test", "ApptFinder_Test\ApptFinder_Test.csproj", "{9E26ACF9-EE18-4880-9F85-B329121226EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8C9D1600-1CEE-4A39-9AE3-ADC23B8DD9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C9D1600-1CEE-4A39-9AE3-ADC23B8DD9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C9D1600-1CEE-4A39-9AE3-ADC23B8DD9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E26ACF9-EE18-4880-9F85-B329121226EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E26ACF9-EE18-4880-9F85-B329121226EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E26ACF9-EE18-4880-9F85-B329121226EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E26ACF9-EE18-4880-9F85-B329121226EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
